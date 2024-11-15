@@ -1,0 +1,6 @@
+aiogram
+fastapi
+pydantic
+uvicorn
+jinja2
+pydantic_settings
